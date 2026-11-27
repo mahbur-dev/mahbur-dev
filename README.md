@@ -8,7 +8,7 @@
   <p>Building reliable web applications and practical digital experiences.</p>
   <p>
     <a href="https://mahburrahman.online"><img src="https://img.shields.io/badge/Portfolio-mahburrahman.online-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://github.com/mahbur-dev"><img src="https://img.shields.io/badge/GitHub-DM--IT43-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/mahbur-dev"><img src="https://img.shields.io/badge/GitHub-mahbur--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Python+%7C+Django+%7C+REST+APIs;Turning+ideas+into+useful+web+applications;Always+learning%2C+building%2C+and+improving" alt="Typing introduction" />
 </div>
