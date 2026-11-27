@@ -54,14 +54,14 @@ I'm **MD Mahbur Rahman**, a Python & Django Developer interested in building mai
             <img src="https://raw.githubusercontent.com/DM-IT43/nexus-creative-solutions/main/assets/images/CodeCraftor.png" width="100%" alt="Nexus Creative Solutions project preview" />
           </a>
         </p>
-        <p>A responsive digital agency website concept featuring service pages, portfolio presentation, contact flow, and animated visual sections.</p>
+        <p>A multi-page digital agency website concept with service, about, portfolio and contact pages, plus animated visual sections.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
           <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
         </p>
-        <p align="center"><a href="https://github.com/DM-IT43/nexus-creative-solutions">View Repository ↗</a></p>
+        <p align="center"><a href="https://github.com/DM-IT43/nexus-creative-solutions">View Repository ↗</a> · <a href="https://github.com/DM-IT43/nexus-creative-solutions#readme">Documentation</a></p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">Real Estate Website Demo</h3>
@@ -70,20 +70,20 @@ I'm **MD Mahbur Rahman**, a Python & Django Developer interested in building mai
             <img src="https://raw.githubusercontent.com/DM-IT43/real-estate-website-demo/main/Media/webaliser-_TPTXZd9mOo-unsplash.jpg" width="100%" alt="Real estate website demo preview" />
           </a>
         </p>
-        <p>A multi-page real estate website demo with a property-focused landing page, hero carousel, property listings, and responsive navigation.</p>
+        <p>A static real estate frontend demo with a property-focused landing page, hero carousel, sample property cards and responsive navigation. Listing filters are illustrative and are not connected to a backend.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
           <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
           <img src="https://img.shields.io/badge/Bootstrap_Icons-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap Icons" />
         </p>
-        <p align="center"><a href="https://github.com/DM-IT43/real-estate-website-demo">View Repository ↗</a></p>
+        <p align="center"><a href="https://github.com/DM-IT43/real-estate-website-demo">View Repository ↗</a> · <a href="https://github.com/DM-IT43/real-estate-website-demo#readme">Documentation</a></p>
       </td>
     </tr>
   </table>
 </div>
 
-> **More work:** Visit my [portfolio](https://mahburrahman.online) or browse [all public repositories](https://github.com/DM-IT43?tab=repositories). Some application work is maintained in private repositories.
+> **More work:** Visit my [portfolio](https://mahburrahman.online) or browse [all public repositories](https://github.com/DM-IT43?tab=repositories).
 
 ## 📊 GitHub Overview
 
