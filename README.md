@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/DM-IT43 -->
 
 <div align="center">
-  <img src="assets/github-banner.png" alt="Dark purple and cyan futuristic developer banner" width="100%" />
+  <img src="github-banner.png" alt="Dark purple and cyan futuristic developer banner" width="100%" />
   <br />
   <h1>Hi, I'm MD Mahbur Rahman 👋</h1>
   <h3>Python &amp; Django Developer</h3>
