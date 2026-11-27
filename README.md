@@ -44,13 +44,46 @@ I'm **MD Mahbur Rahman**, a Python & Django Developer interested in building mai
 
 ## 🚀 Featured Projects
 
-I'm curating this section around projects that best demonstrate my engineering skills. In the meantime, explore my public repositories:
-
 <div align="center">
-  <a href="https://github.com/DM-IT43?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Public_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Nexus Creative Solutions</h3>
+        <p align="center">
+          <a href="https://github.com/DM-IT43/nexus-creative-solutions">
+            <img src="https://raw.githubusercontent.com/DM-IT43/nexus-creative-solutions/main/assets/images/CodeCraftor.png" width="100%" alt="Nexus Creative Solutions project preview" />
+          </a>
+        </p>
+        <p>A responsive digital agency website concept featuring service pages, portfolio presentation, contact flow, and animated visual sections.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
+        </p>
+        <p align="center"><a href="https://github.com/DM-IT43/nexus-creative-solutions">View Repository ↗</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Real Estate Website Demo</h3>
+        <p align="center">
+          <a href="https://github.com/DM-IT43/real-estate-website-demo">
+            <img src="https://raw.githubusercontent.com/DM-IT43/real-estate-website-demo/main/Media/webaliser-_TPTXZd9mOo-unsplash.jpg" width="100%" alt="Real estate website demo preview" />
+          </a>
+        </p>
+        <p>A multi-page real estate website demo with a property-focused landing page, hero carousel, property listings, and responsive navigation.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
+          <img src="https://img.shields.io/badge/Bootstrap_Icons-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap Icons" />
+        </p>
+        <p align="center"><a href="https://github.com/DM-IT43/real-estate-website-demo">View Repository ↗</a></p>
+      </td>
+    </tr>
+  </table>
 </div>
+
+> **More work:** Visit my [portfolio](https://mahburrahman.online) or browse [all public repositories](https://github.com/DM-IT43?tab=repositories). Some application work is maintained in private repositories.
 
 ## 📊 GitHub Overview
 
